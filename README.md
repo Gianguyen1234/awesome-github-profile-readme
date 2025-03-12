@@ -83,6 +83,7 @@
 - [codeSTACKr](https://github.com/codestackr/codestackr)
 - [itgoyo](https://github.com/itgoyo/itgoyo)
 - [lifeparticle](https://github.com/lifeparticle/lifeparticle)
+- [Holy_Dev](https://github.com/Gianguyen1234/Gianguyen1234)
 
 #### Game Mode 🚀
 - [Tim Burgan](https://github.com/timburgan/timburgan)
@@ -141,6 +142,7 @@
 - [Rak Laptudirm](https://github.com/raklaptudirm/raklaptudirm)
 - [Trini B](https://github.com/trinib/trinib)
 - [holic-x](https://github.com/holic-x/holic-x)
+- [Holy_Dev](https://github.com/Gianguyen1234/Gianguyen1234)
 
 #### Descriptive 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
